@@ -1,0 +1,23 @@
+{
+  "name": "sdl_websocket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sohee6030/sdl_websocket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sohee6030/sdl_websocket/issues"
+  },
+  "homepage": "https://github.com/sohee6030/sdl_websocket#readme",
+  "dependencies": {
+    "ws": "^5.2.0"
+  }
+}
